@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: 8626ca3d891d05d4c83b0884c8aeb76c
+  - enabled: 1
+    path: Assets/Scenes/InteriorCastilloCinematica.unity
+    guid: d1ea882d410e93e4c909db4753d08700
+  - enabled: 1
+    path: Assets/Scenes/InteriorCastillo.unity
+    guid: 09eb4476fc5b8ed499ea37b39ecbd31c
+  - enabled: 1
+    path: Assets/Scenes/JardinCastillo.unity
+    guid: b4a82b0534db60c459f1c53b0ceba338
+  - enabled: 1
+    path: Assets/Scenes/Puente.unity
+    guid: 7330b8c1987b01646959e4d8af92bb5a
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/PrimerPoblado.unity
+    guid: f64a1af8849a52d42a4b9cae22d34138
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: 62ba7d5be017cbe45a581c7b6c23ebab
+  - enabled: 1
+    path: Assets/Scenes/EntreBosque.unity
+    guid: 647f96df8cee1cd46b557b78bd8d1bc0
+  - enabled: 1
+    path: Assets/Scenes/CasaXerman.unity
+    guid: d2a900e51babeef469585c73343cfeb8
+  - enabled: 1
+    path: Assets/Scenes/Paso.unity
+    guid: 01aba5bc6616ae146a9c6294408b4a1e
+  - enabled: 1
+    path: Assets/Scenes/Cueva.unity
+    guid: cfe6c562fed07194d97e2e6e15f37f11
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/SegundoPoblado.unity
+    guid: 7998e1c0123573f4791d57a2770ab052
+  - enabled: 1
+    path: Assets/Scenes/Campo.unity
+    guid: d230ddeae31463c40b40d56302e9cd28
+  - enabled: 1
+    path: Assets/Scenes/BaseXerman.unity
+    guid: fd1e41b4c04861d4994e0422e709da2d
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Tienda2.unity
+    guid: dd86492f0d98ced4ea2905b5bee630bd
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Casa1PrimerPoblado.unity
+    guid: 8bdf37c8ee4ca754abfbdccb357ab802
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Casa2PrimerPoblado.unity
+    guid: 09d47d202eb98094695465aeeecc89fb
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Casa3PrimerPoblado.unity
+    guid: 81f2cee66be161045859c078d854aadb
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Casa4PrimerPoblado.unity
+    guid: a8fa224c66642d6459a86070e141729f
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Casa5PrimerPoblado.unity
+    guid: 044567d7efd8cf749a42d770aac4c0a3
+  - enabled: 1
+    path: Assets/Scenes/PrimerPoblado/Tienda1.unity
+    guid: 9a6734cda18ea684fbe68939f4f553d2
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Casa1SegundoPoblado.unity
+    guid: abea2ac6d94459444aac23f3311bf351
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Casa2SegundoPoblado.unity
+    guid: 6df33e220d7204346904a440cbe3ff67
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Casa3SegundoPoblado.unity
+    guid: dc54afd627335be498f5f3c977033aa7
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Casa4SegundoPoblado.unity
+    guid: f5e2f0e617760004d95e225fd60e79a3
+  - enabled: 1
+    path: Assets/Scenes/SegundoPoblado/Casa5SegundoPoblado.unity
+    guid: 8c8410fa090e78b47848e052f0622a9d
+  - enabled: 1
+    path: Assets/Scenes/Cueva2.unity
+    guid: ab01aed6e1c4bc145abccc569c061aa4
+  - enabled: 1
+    path: Assets/Scenes/Cueva3.unity
+    guid: c6ed7faaed30bcb4aaf2747b4a8aba51
+  - enabled: 1
+    path: Assets/Scenes/CinematicaBaseXerman.unity
+    guid: e89daf08c67cb2b4699245f38d2a33b2
+  - enabled: 1
+    path: Assets/Scenes/Realidade.unity
+    guid: 92cf7a02a46c8c543bc39ea103169a96
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 867eb24bd92ecb54dba67ee524197dd4
+  m_configObjects: {}
